@@ -1,0 +1,34 @@
+{
+  "name": "schedule-design",
+  "version": "1.0.0",
+  "description": "A React Application for Generating Schedules using CourseJS.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "test": "node_modules/.bin/mocha -w"
+  },
+  "keywords": [],
+  "author": "cazinge",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cazinge/lmu-schedule-helper"
+  },
+  "bugs": {
+    "url": "https://github.com/cazinge/lmu-schedule-helper/issues"
+  },
+  "homepage": "https://github.com/cazinge/lmu-schedule-helper",
+  "devDependencies": {
+    "babel-plugin-transform-react-jsx": "^6.8.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.1",
+    "chai": "*",
+    "electron": "^1.4.6",
+    "http-server": "*",
+    "live-server": "^1.1.0",
+    "mocha": "*",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
