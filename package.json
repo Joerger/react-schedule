@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/bjoerger/react-schedule/issues"
   },
-  "homepage": "https://github.com/bjoerger/react-schedule"
+  "homepage": "https://github.com/bjoerger/react-schedule",
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-plugin-react": "^6.10.1"
+  }
 }
