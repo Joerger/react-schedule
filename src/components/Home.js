@@ -1,5 +1,5 @@
 import React from 'react';
-import Schedule from './Schedule';
+import Schedule from './react-schedule';
 
 function Home() {
   return (
