@@ -1,12 +1,15 @@
 import React, { PropTypes } from 'react';
 
 const propTypes = {
-  courses: PropTypes.object.isRequired,
+  courses: PropTypes.array.isRequired,
 };
 
-function Schedule(props) {
+/*
+  TODO: Build Schedule
+ */
+function Schedule(props) { //eslint-disable-line
   return (
-    <div props={props} /> // Suppressing errors
+    <div />
   );
 }
 

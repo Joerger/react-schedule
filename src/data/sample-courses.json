@@ -1,0 +1,47 @@
+{
+  "70816": {
+    "alias": "70816",
+    "times": ["TR, 01:00 pm-02:30 pm, PER 211"],
+    "classInfo": {
+      "subject": "Computer Science",
+      "abbreviation": "CMSI",
+      "number": "284",
+      "section": "01"
+    },
+    "info": {
+      "searchable": {
+        "title": "Computer Systems Org",
+        "instructors": ["Edward P. Katz"],
+        "flags": ["FLAG: Quantitatve Reasoning"]
+      },
+      "regular": {
+        "units": "3.000",
+        "duration": "01/09-05/05",
+        "campus": "1"
+      },
+      "hidden": {}
+    }
+  },
+  "73755": {
+    "alias": "73755",
+    "times": ["MWF, 08:00 am-09:00 am, DOO 219"],
+    "classInfo": {
+      "subject": "Electrical Engineering",
+      "abbreviation": "ELEC",
+      "number": "281",
+      "section": "01"
+    },
+    "info": {
+      "searchable": {
+        "title":"Logic Design",
+        "instructors":["Barbara E. Marino"]
+      },
+      "regular":{
+        "units":"3.000",
+        "duration":"01/09-05/05",
+        "campus":"1"
+      },
+      "hidden":{}
+    }
+  }
+}
