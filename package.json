@@ -13,6 +13,7 @@
   "author": "Brian Joerger",
   "license": "MIT",
   "dependencies": {
+    "json-loader": "^0.5.4",
     "react": "^15.4.1",
     "react-dom": "^15.4.1",
     "react-interactive": "^0.4.0",
@@ -30,6 +31,7 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^2.2.3",
     "eslint-plugin-react": "^6.8.0",
+    "json-loader": "^0.5.4",
     "webpack": "^1.14.0",
     "webpack-dev-server": "^1.16.2"
   }

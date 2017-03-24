@@ -12,6 +12,9 @@ export default {
     loaders: [
       { test: /\.jsx?$/, exclude: /node_modules/, loader: 'babel' },
     ],
+    rules: [
+      { test: /\.json$/, use: 'json-loader'},
+    ],
   },
 
   resolve: {
