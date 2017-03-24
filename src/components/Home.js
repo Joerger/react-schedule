@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Schedule from './react-schedule';
+import Schedule from '../js/react-schedule/Schedule';
 import courseMap from 'json-loader!../data/sample-courses.json'; //eslint-disable-line
 import parseDataToCourse from '../js/parseDataToCourse';
 

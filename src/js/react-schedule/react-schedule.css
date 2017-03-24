@@ -16,21 +16,16 @@
 .schedule-main {
   display: inline-flex;
   --header-color: #C1D4F1;
-  --primary-color: #E2E2E2;
-  --secondary-color: white;
 }
 
 /* Schedule-Pane CSS */
 .schedule-pane {
   --width: 175px;
-  width: var(--width);
   margin-left: 5px;
 }
 
 .pane-time {
   --width: 90px;
-  --primary-color: #C1D4F1;
-  --secondary-color: #E9EDF2;
   margin-left: 0px;
   margin-right: 5px;
 }
@@ -42,9 +37,8 @@
 .pane-header {
   position: relative;
   height: 41px;
-  width: var(--width);
   border-radius: 10px;
-  background-color: var(--header-color);
+  background-color: #C1D4F1;
   margin-bottom: 10px;
 }
 
@@ -71,7 +65,7 @@
   text-align: center;
 }
 
-.entry-block, .course-block{
+.course-block {
   position: absolute;
   z-index: 1;
   width: 100%;
